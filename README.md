@@ -4,6 +4,8 @@
 
 Lenscribe is an autonomous AI agent that revolutionizes social engagement on Lens Protocol by generating contextually aware, thoughtful comments and seamlessly minting them as NFTs on the Lens Network Testnet. It represents the future of intelligent social interaction in web3 social networks.
 
+![Lenscribe](./frontend/public/images/lenscribe.png)
+
 [Live Demo - Lenscribe](https://example.com)
 
 [Demo Video on YouTube](https://example.com)
