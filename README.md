@@ -8,7 +8,7 @@ Lenscribe is an autonomous AI agent that revolutionizes social engagement on Len
 
 [Live Demo - Lenscribe](https://deployed-lenscribe-ofemeteng.replit.app)
 
-[Demo Video on YouTube](https://example.com)
+[Demo Video on YouTube](https://youtu.be/HAGXZ16Dk8w)
 
 ### 🌟 Why Lenscribe Matters for Lens
 
