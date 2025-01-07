@@ -16,7 +16,7 @@ export default function Page() {
     <Web3Provider>
       <div className="flex min-h-screen flex-col items-center justify-center p-4 bg-background text-foreground">
         <div className="flex flex-col items-center gap-2 mb-8">
-          <h1 className="text-4xl font-bold mb-4">Welcome to Lens AI Comment Generator</h1>
+          <h1 className="text-4xl font-bold mb-4">Welcome to Lensribe: The Lens AI Comment Generator</h1>
           <p className="mb-8">
             Generate witty comments for Lens posts and mint them as NFTs!
           </p>

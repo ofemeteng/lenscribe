@@ -15,7 +15,7 @@ const config = createConfig(
     walletConnectProjectId: process.env.NEXT_PUBLIC_WALLETCONNECT_ID || "",
 
     // Required App Info
-    appName: "Lens Testnet Demo",
+    appName: "Lenscribe",
   })
 );
 
